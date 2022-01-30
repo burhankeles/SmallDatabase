@@ -1,0 +1,10 @@
+1:Oil
+2:Water
+3:Mask
+4:Laptop
+5:Toy
+6:Parfume
+7:Glass
+8:Book
+9:Mouse
+10:PC

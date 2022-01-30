@@ -1,0 +1,9 @@
+BasketID	CustomerName	Customer ID	Item ID	Item Name
+0	0	Burhan	4	Laptop
+1	0	Burhan	5	Toy
+2	0	Burhan	6	Parfume
+3	1	Berkin	2	Water
+4	1	Berkin	7	Glass
+5	1	Berkin	9	Mouse
+6	1	Berkin	8	Book
+7	2	Irem	3	Mask
